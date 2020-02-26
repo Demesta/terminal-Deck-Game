@@ -1,0 +1,3 @@
+/home/qwerty/Documents/cpp_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/qwerty/Documents/cpp_project/cmake-build-debug/CMakeFiles/cpp_project.dir
+/home/qwerty/Documents/cpp_project/cmake-build-debug/CMakeFiles/edit_cache.dir

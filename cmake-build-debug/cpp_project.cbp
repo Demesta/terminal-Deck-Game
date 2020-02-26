@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cpp_project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/qwerty/Documents/cpp_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/qwerty/Documents/cpp_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_project">
+				<Option output="/home/qwerty/Documents/cpp_project/cmake-build-debug/cpp_project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/qwerty/Documents/cpp_project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_project"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_project/fast">
+				<Option output="/home/qwerty/Documents/cpp_project/cmake-build-debug/cpp_project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/qwerty/Documents/cpp_project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_project/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/qwerty/Documents/cpp_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/qwerty/Documents/cpp_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/qwerty/Documents/cpp_project/BlackCard.cpp">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/BlackCard.h">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/Card.cpp">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/Card.h">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/DeckBuilder.cpp">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/DeckBuilder.h">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/Follower.cpp">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/Follower.h">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/GameBoard.cpp">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/GameBoard.h">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/GreenCard.cpp">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/GreenCard.h">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/Holding.cpp">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/Holding.h">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/Item.cpp">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/Item.h">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/Personality.cpp">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/Personality.h">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/Player.cpp">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/Player.h">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/main.cpp">
+			<Option target="cpp_project"/>
+		</Unit>
+		<Unit filename="/home/qwerty/Documents/cpp_project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
