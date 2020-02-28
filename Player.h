@@ -12,13 +12,14 @@
 class Player
 {
   private:
+    int player_number;    //to know which player's turn is
     int honour;
     int money;
     int initialDefence;
     int numberOfProvinces;
 
-    list<GreenCard*> fateDeck;   //items and followers
-    list<BlackCard*> dynastyDeck;  //holdings and personalities
+    list<GreenCard*>* fateDeck;   //items and followers
+    list<BlackCard*>* dynastyDeck;  //holdings and personalities
     list<GreenCard*> hand;
     list<Holding*> holdings;
     list<Personality*> army;
@@ -26,7 +27,7 @@ class Player
     DeckBuilder deck;
 
   public:
-    Player();
+    Player(int);
 };
 
 #endif //CPP_PROJECT__PLAYER_H_

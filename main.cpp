@@ -24,4 +24,16 @@ int main()
            "     ____--`~    '--~~__|.    |+++++__|----~    ~`---,              ___\n"
            "-~--~                   ~---__|,--~'                  ~~----_____-~'   `~----~~";
 
+    cout<<"\n_____________________________________________________________________________________\n";
+
+    int players_num;
+
+    cout<<"How many players? Choose from 2 to 8:";
+    cin<<players_num;
+
+    GameBoard gameboard;
+
+    gameboard.initializeGameBoard(players_num);
+
+
 }

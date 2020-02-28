@@ -19,6 +19,7 @@ class GameBoard
     list<Card*> cards_list;
 
     GameBoard();
+    void initializeGameBoard(int);
     void printGameStatistics();
     void gameplay();
 };
