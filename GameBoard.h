@@ -15,13 +15,17 @@ using namespace std;
 
 class GameBoard
 {
+  private:
     list<Player*> players_list;
     list<Card*> cards_list;
-
+    int round;
+  public:
     GameBoard();
     void initializeGameBoard(int);
     void printGameStatistics();
     void gameplay();
+    int GetRound() const;
+    void SetRound(int round);
 };
 
 

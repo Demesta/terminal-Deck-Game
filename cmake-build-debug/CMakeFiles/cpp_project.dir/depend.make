@@ -57,16 +57,28 @@ CMakeFiles/cpp_project.dir/Personality.cpp.o: ../Card.h
 CMakeFiles/cpp_project.dir/Personality.cpp.o: ../Personality.cpp
 CMakeFiles/cpp_project.dir/Personality.cpp.o: ../Personality.h
 
+CMakeFiles/cpp_project.dir/Player.cpp.o: ../BlackCard.h
+CMakeFiles/cpp_project.dir/Player.cpp.o: ../Card.h
+CMakeFiles/cpp_project.dir/Player.cpp.o: ../DeckBuilder.h
+CMakeFiles/cpp_project.dir/Player.cpp.o: ../Follower.h
+CMakeFiles/cpp_project.dir/Player.cpp.o: ../GreenCard.h
+CMakeFiles/cpp_project.dir/Player.cpp.o: ../Holding.h
+CMakeFiles/cpp_project.dir/Player.cpp.o: ../Item.h
+CMakeFiles/cpp_project.dir/Player.cpp.o: ../Personality.h
 CMakeFiles/cpp_project.dir/Player.cpp.o: ../Player.cpp
+CMakeFiles/cpp_project.dir/Player.cpp.o: ../Player.h
+CMakeFiles/cpp_project.dir/Player.cpp.o: ../Utils.h
 
 CMakeFiles/cpp_project.dir/main.cpp.o: ../BlackCard.h
 CMakeFiles/cpp_project.dir/main.cpp.o: ../Card.h
 CMakeFiles/cpp_project.dir/main.cpp.o: ../DeckBuilder.h
 CMakeFiles/cpp_project.dir/main.cpp.o: ../Follower.h
+CMakeFiles/cpp_project.dir/main.cpp.o: ../GameBoard.h
 CMakeFiles/cpp_project.dir/main.cpp.o: ../GreenCard.h
 CMakeFiles/cpp_project.dir/main.cpp.o: ../Holding.h
 CMakeFiles/cpp_project.dir/main.cpp.o: ../Item.h
 CMakeFiles/cpp_project.dir/main.cpp.o: ../Personality.h
+CMakeFiles/cpp_project.dir/main.cpp.o: ../Player.h
 CMakeFiles/cpp_project.dir/main.cpp.o: ../Utils.h
 CMakeFiles/cpp_project.dir/main.cpp.o: ../main.cpp
 

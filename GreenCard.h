@@ -16,7 +16,7 @@ class GreenCard : public Card
   public:
     GreenCard(string);
     int effectBonus();
-
+    const string &GetCardText() const;
 };
 
 #endif //CPP_PROJECT__GREENCARD_H_

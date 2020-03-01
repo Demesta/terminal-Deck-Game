@@ -8,4 +8,8 @@ Card::Card(string s)
 void Card::SetName(const string &name)
 {
     Card::name = name;
+}
+const string &Card::GetName() const
+{
+    return name;
 };

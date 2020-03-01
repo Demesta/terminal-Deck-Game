@@ -44,6 +44,30 @@ Utils.h
 GreenCard.h
 /home/qwerty/Documents/cpp_project/GreenCard.h
 
+/home/qwerty/Documents/cpp_project/GameBoard.h
+fstream
+-
+cstdio
+-
+iostream
+-
+ctime
+-
+list
+-
+cstdlib
+-
+vector
+-
+sstream
+-
+string
+-
+Player.h
+/home/qwerty/Documents/cpp_project/Player.h
+Card.h
+/home/qwerty/Documents/cpp_project/Card.h
+
 /home/qwerty/Documents/cpp_project/GreenCard.h
 Card.h
 /home/qwerty/Documents/cpp_project/Card.h
@@ -60,6 +84,18 @@ GreenCard.h
 BlackCard.h
 /home/qwerty/Documents/cpp_project/BlackCard.h
 
+/home/qwerty/Documents/cpp_project/Player.h
+list
+-
+GreenCard.h
+/home/qwerty/Documents/cpp_project/GreenCard.h
+Holding.h
+/home/qwerty/Documents/cpp_project/Holding.h
+Personality.h
+/home/qwerty/Documents/cpp_project/Personality.h
+DeckBuilder.h
+/home/qwerty/Documents/cpp_project/DeckBuilder.h
+
 /home/qwerty/Documents/cpp_project/Utils.h
 
 /home/qwerty/Documents/cpp_project/main.cpp
@@ -67,4 +103,6 @@ iostream
 -
 DeckBuilder.h
 /home/qwerty/Documents/cpp_project/DeckBuilder.h
+GameBoard.h
+/home/qwerty/Documents/cpp_project/GameBoard.h
 

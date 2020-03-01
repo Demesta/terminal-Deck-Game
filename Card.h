@@ -9,6 +9,8 @@ class Card
   private:
     string name;
   public:
+    const string &GetName() const;
+  public:
     void SetName(const string &name);
   private:
     int cost;
